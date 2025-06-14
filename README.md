@@ -21,14 +21,8 @@
 - Cookies and tracking explained
 - Social media privacy tips
 
-### 4. Frequently Asked Questions (FAQ)
-- Common questions from new netizens
-- Troubleshooting tips
-- Where to find more help
-
 ### 5. Additional Resources
 - Links to trusted guides and tutorials
-- Contact/support information
 
 ---
 
