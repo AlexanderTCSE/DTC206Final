@@ -3,39 +3,34 @@
 
 *created by Alexander Tattersall for DTC206, Summer 2025*
 
-### 1. Introduction
+### 1. Home Page
 - Purpose of this page
 - Who this page is for
 - What users will learn
-
-### 2. Getting Started
-- Basic page navigation
 - Online vocabulary
+- Basic page navigation
 
-### 3. Online Safety
+### 2. Net Safety Page
 - Recognizing scams and phishing
 - Safe browsing habits
 - Creating strong passwords
 - Identifying secure websites
 - Identifying AI-generated content
 
-### 4. Privacy Basics
+### 3. Net Privacy Page
 - Protecting personal information
 - Understanding privacy settings
 - Cookies and tracking explained
 - Social media privacy tips
 
-### 5. Frequently Asked Questions (FAQ)
+### 4. Frequently Asked Questions (FAQ)
 - Common questions from new netizens
 - Troubleshooting tips
 - Where to find more help
 
-### 6. Additional Resources
+### 5. Additional Resources
 - Links to trusted guides and tutorials
 - Contact/support information
-
-### 7. Feedback & Support
-- How users can provide feedback
 
 ---
 
