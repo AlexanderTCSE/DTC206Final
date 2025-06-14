@@ -12,10 +12,8 @@
 
 ### 2. Net Safety Page
 - Recognizing scams and phishing
-- Safe browsing habits
-- Creating strong passwords
-- Identifying secure websites
-- Identifying AI-generated content
+- Protecting your data
+- Reporting online scams
 
 ### 3. Net Privacy Page
 - Protecting personal information
