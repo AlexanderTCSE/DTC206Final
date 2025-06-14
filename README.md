@@ -21,7 +21,7 @@
 - Cookies and tracking explained
 - Social media privacy tips
 
-### 5. Additional Resources
+### 4. Additional Resources
 - Links to trusted guides and tutorials
 
 ---
